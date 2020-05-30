@@ -36,5 +36,5 @@ jobs:
 
       - name: Push image
         run: |
-          docker tag image edgehog/windows.servercore.ltsc2016-openjdk8
-          docker push edgehog/windows.servercore.ltsc2016-openjdk8
+          docker tag image edgehog/adoptopenjdk:8-jdk-hotspot-windowsservercore-ltsc2016
+          docker push edgehog/adoptopenjdk:8-jdk-hotspot-windowsservercore-ltsc2016
