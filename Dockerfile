@@ -1,4 +1,4 @@
-FROM --platform=windows/amd64 edgehog/chocolatey:lastest-windowsservercore-ltsc2016
+FROM --platform=windows/amd64 edgehog/chocolatey:latest-windowsservercore-ltsc2016
 
 RUN choco install adoptopenjdk8 -y
 
