@@ -1,4 +1,3 @@
 ***Docker image***
-- [Windows Server Core ltsc2016](https://hub.docker.com/_/microsoft-windows-servercore)
-- [Chocolatey 0.10.15](https://chocolatey.org)
+- [docker-chocolatey-windowsservercore-ltsc2016](../docker-chocolatey-windowsservercore-ltsc2016)
 - AdoptOpenJDK jdk8 hotspot 8.252.9
